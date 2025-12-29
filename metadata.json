@@ -1,0 +1,5 @@
+{
+  "name": "Mutual Structure Image Filter",
+  "description": "A high-performance implementation of the Mutual Structure-preserving Texture Filtering algorithm. It allows users to extract common structures between two images using joint-filtering techniques, perfect for detail enhancement, image joint-denoising, and texture removal.",
+  "requestFramePermissions": []
+}
